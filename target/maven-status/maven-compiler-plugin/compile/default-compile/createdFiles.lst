@@ -1,0 +1,10 @@
+edu/poniperro/mollap/intercepting/administrador/Tasques.class
+edu/poniperro/mollap/intercepting/targets/Vehicle.class
+edu/poniperro/mollap/intercepting/clients/Mollapp.class
+edu/poniperro/mollap/intercepting/filtres/Autoritzacio.class
+edu/poniperro/mollap/intercepting/administrador/ProgramadorTasques.class
+edu/poniperro/mollap/intercepting/targets/Target.class
+edu/poniperro/mollap/intercepting/filtres/Autenticacio.class
+edu/poniperro/mollap/intercepting/clients/Client.class
+edu/poniperro/mollap/intercepting/App.class
+edu/poniperro/mollap/intercepting/filtres/Filtre.class
